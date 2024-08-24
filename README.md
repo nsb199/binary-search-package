@@ -28,6 +28,6 @@ console.log(index); // Output: 4
 `binarySearch(arr, target)`
 - Description: Searches for the `target` value in a sorted array `arr` and returns its index. If the `target` is not found, it returns `-1`.
 - Parameters:
--- `arr` (Array): The sorted array to search in.
--- `target` (Number): The value to search for.
+ `arr` (Array): The sorted array to search in.
+ `target` (Number): The value to search for.
 - Returns: `Number`: The index of the `target` in the array or `-1` if not found.
